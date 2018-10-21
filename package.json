@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/lakatostamas/flashcards/issues"
   },
-  "homepage": "https://github.com/lakatostamas/flashcards#readme"
+  "homepage": "https://github.com/lakatostamas/flashcards#readme",
+  "dependencies": {
+    "webpack": "^4.25.1"
+  }
 }
